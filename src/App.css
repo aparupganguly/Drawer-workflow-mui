@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.demo-flow{
+  background-color: #ace5f5;
+  height: 100px;
+  text-align: left;
+  width: 100%;
+  border:1px solid rgb(27, 27, 27);
+  
+}
+.Edit-btn{
+  margin-bottom: 25px;
+  width: 100%;
+}
+
+p{
+  font-size: 20px;
+}
